@@ -1,23 +1,50 @@
-# 🩺 Diabetes Prediction System
+# 🩺 Diabetes Prediction System  
+### 🚀 Live Machine Learning Web App
 
-This project predicts whether a person is diabetic using Machine Learning.
+<p align="center">
+  <b>Predict diabetes risk instantly using Machine Learning</b><br>
+  Built with ❤️ using Python, Scikit-learn & Streamlit
+</p>
 
-## 📌 Features
-- Logistic Regression model
-- Data preprocessing
-- Web app using Streamlit
-- Real-time prediction
+---
 
-## 🛠 Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Streamlit
+## 🌐 🔥 Live Demo  
+👉 **[Click here to use the app](https://disease-prediction-noxdfptjoxwr4gj2t4fnps.streamlit.app/)**  
 
-## 📊 Dataset
-Pima Indians Diabetes Dataset
+---
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python -m streamlit run app.py
+## ✨ Highlights  
+✔ Real-time prediction  
+✔ Clean and interactive UI  
+✔ Confidence score output  
+✔ Fully deployed ML project  
+✔ Beginner-friendly and practical  
+
+---
+
+## 🧠 How It Works  
+
+1. User enters medical details  
+2. Data is processed using trained ML model  
+3. Model predicts diabetes risk  
+4. Output shown with confidence score  
+
+---
+
+## 🛠 Tech Stack  
+
+| Category        | Tools Used |
+|----------------|-----------|
+| Language       | Python 🐍 |
+| ML Library     | Scikit-learn |
+| Data Handling  | Pandas, NumPy |
+| Deployment     | Streamlit |
+
+---
+
+## 📊 Dataset  
+📌 Pima Indians Diabetes Dataset  
+
+---
+
+
